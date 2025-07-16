@@ -2,7 +2,7 @@ public class Exemplo02_ClassificadorNota {
 
     public static void main(String[] args) {
         // Altere este conceito (ex: "A", "B", "C", "D" ou outro) para testar
-        String conceitoNota = "B"; 
+        String conceitoNota = "H";
 
         System.out.println("--- Avaliação do Conceito ---");
         System.out.println("Conceito recebido: " + conceitoNota);

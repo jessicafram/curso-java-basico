@@ -2,7 +2,7 @@ public class Exemplo03_FallThrough {
 
     public static void main(String[] args) {
         // Altere a etapa para 1, 2, 3 ou outro número para ver o comportamento
-        int etapa = 1; 
+        int etapa = 6; 
 
         System.out.println("--- Exemplo de Fall-through (Sem break!) ---");
         System.out.println("Etapa inicial: " + etapa);

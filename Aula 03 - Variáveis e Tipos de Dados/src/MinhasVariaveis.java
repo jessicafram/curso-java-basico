@@ -13,7 +13,7 @@ public class MinhasVariaveis {
         // Exemplo de char (caractere único)
         char primeiraLetra = 'A';
         System.out.println("A primeira letra do alfabeto é: " + primeiraLetra); // Saída: A primeira letra do alfabeto
-                                                                                // é: A
+                                                                            
 
         // Exemplo de boolean (verdadeiro/falso)
         boolean tenhoCarro = true;
